@@ -1,0 +1,24 @@
+_repo: The-Just-Wed-Cook-Book-A-Present-from-The-Merchants-of-Reno-Nevada_51542
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Kiessling, E. F.
+    gutenberg_agent_id: '46369'
+    url: http://www.gutenberg.org/2009/agents/46369
+description: ''
+gutenberg_issued: '2016-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51542'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+- GITenberg
+title: 'The Just-Wed Cook Book
+
+  A Present from The Merchants of Reno, Nevada'
+url: http://www.gutenberg.org/ebooks/51542
