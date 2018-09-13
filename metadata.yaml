@@ -1,11 +1,16 @@
 _repo: The-Just-Wed-Cook-Book-A-Present-from-The-Merchants-of-Reno-Nevada_51542
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: Kiessling, E. F.
     gutenberg_agent_id: '46369'
     url: http://www.gutenberg.org/2009/agents/46369
+covers:
+- cover_type: archival
+  image_path: 51542-h/images/i-106-backcover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51542#The-Just-Wed-Cook-Book-A-Present-from-The-Merchants-of-Reno-Nevada
 gutenberg_issued: '2016-03-24'
 gutenberg_type: Text
 identifiers:
